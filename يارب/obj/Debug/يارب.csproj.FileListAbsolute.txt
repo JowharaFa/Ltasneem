@@ -1,0 +1,15 @@
+C:\Users\Elite\Desktop\يارب\يارب\bin\Debug\يارب.exe.config
+C:\Users\Elite\Desktop\يارب\يارب\bin\Debug\يارب.exe
+C:\Users\Elite\Desktop\يارب\يارب\bin\Debug\يارب.pdb
+C:\Users\Elite\Desktop\يارب\يارب\obj\Debug\يارب.csprojResolveAssemblyReference.cache
+C:\Users\Elite\Desktop\يارب\يارب\obj\Debug\يارب.Form1.resources
+C:\Users\Elite\Desktop\يارب\يارب\obj\Debug\يارب.Form2.resources
+C:\Users\Elite\Desktop\يارب\يارب\obj\Debug\يارب.Properties.Resources.resources
+C:\Users\Elite\Desktop\يارب\يارب\obj\Debug\يارب.csproj.GenerateResource.Cache
+C:\Users\Elite\Desktop\يارب\يارب\obj\Debug\يارب.exe
+C:\Users\Elite\Desktop\يارب\يارب\obj\Debug\يارب.pdb
+C:\Users\Elite\Desktop\يارب\يارب\obj\Debug\يارب.Form3.resources
+C:\Users\Elite\Desktop\يارب\يارب\obj\Debug\يارب.Form4.resources
+C:\Users\Elite\Desktop\يارب\يارب\obj\Debug\يارب.Form5.resources
+C:\Users\Elite\Desktop\يارب\يارب\obj\Debug\يارب.Form6.resources
+C:\Users\Elite\Desktop\يارب\يارب\obj\Debug\يارب.Form7.resources
